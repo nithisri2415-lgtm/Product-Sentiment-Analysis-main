@@ -1,0 +1,10 @@
+flask
+flask-cors
+psycopg2-binary
+selenium
+webdriver-manager
+textblob
+pandas
+numpy
+gunicorn
+python-dotenv
